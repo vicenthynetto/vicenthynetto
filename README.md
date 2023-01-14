@@ -34,4 +34,4 @@ Tenho 21 anos e estou cursando Ciência da Computação, na faculdade estadual d
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vicenthy.netto@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/VicenteNetto#3554)
 
-![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Formandodev/vicenthynetto/blob/output/github-contribution-grid-snake.svg)
