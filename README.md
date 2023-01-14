@@ -28,7 +28,7 @@
 Tenho 21 anos e estou cursando Ciência da Computação, na faculdade estadual do Ceará (UECE), sou facinado por aprender tecnologias novas, atualmetne sou desenvolvedor em PHP e JavaScript, mas sempre em busca de apender mais e novas oportuniades, amo programar, sou bem ecletico pra música, gosto de jogos(por mais que seja ruim em alguns HAHAHA), sou facinado e louco por tecnologias em geral⌨️, e o mais comum, amo CAFÉ☕, sou muito extrovertido e bem comunicativo, e me dedico bastante a prender e melhorar sempre, sou um amigo que você leva para vida toda!.
 
 ##Contatos:</br>
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com/85996006374)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/h1lanr)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vicente_netto019)
 [![LikedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicente-peixoto-74017b193/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vicenthy.netto@gmail.com)
