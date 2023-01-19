@@ -25,7 +25,7 @@
 	<img align="center" alt="GIT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </div></br>
 
-Tenho 21 anos e estou cursando Ciência da Computação, na faculdade estadual do Ceará (UECE), sou facinado por aprender tecnologias novas, atualmetne sou desenvolvedor em PHP e JavaScript, mas sempre em busca de apender mais e novas oportuniades, amo programar, sou bem ecletico pra música, gosto de jogos(por mais que seja ruim em alguns HAHAHA), sou facinado e louco por tecnologias em geral⌨️, e o mais comum, amo CAFÉ☕, sou muito extrovertido e bem comunicativo, e me dedico bastante a prender e melhorar sempre, sou um amigo que você leva para vida toda!.
+Tenho 21 anos e estou cursando Ciência da Computação, na faculdade estadual do Ceará (UECE), sou fascinado por aprender tecnologias novas, atualmetne sou desenvolvedor em PHP e JavaScript, mas sempre em busca de aprender mais e novas oportuniades, amo programar, sou bem ecletico pra música, gosto de jogos(por mais que seja ruim em alguns HAHAHA), sou fascinado e louco por tecnologias em geral⌨️, e o mais comum, amo CAFÉ☕, sou muito extrovertido e bem comunicativo, e me dedico bastante a aprender e melhorar sempre, sou um amigo que você leva para vida toda!.
 
 ##Contatos:</br>
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/h1lanr)
