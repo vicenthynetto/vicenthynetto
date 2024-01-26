@@ -24,11 +24,10 @@
 	<img align="center" alt="GIT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </div></br>
 
-Tenho 21 anos e estou cursando Ciência da Computação, na faculdade estadual do Ceará (UECE), sou fascinado por aprender tecnologias novas, atualmetne sou desenvolvedor em PHP e JavaScript, mas sempre em busca de aprender mais e novas oportuniades, amo programar, sou bem ecletico pra música, gosto de jogos(por mais que seja ruim em alguns HAHAHA), sou fascinado e louco por tecnologias em geral⌨️, e o mais comum, amo CAFÉ☕, sou muito extrovertido e bem comunicativo, e me dedico bastante a aprender e melhorar sempre, sou um amigo que você leva para vida toda.
+Tenho 21 anos e estou cursando Ciência da Computação, na faculdade estadual do Ceará (UECE), sou fascinado por aprender tecnologias novas, atualmetne sou desenvolvedor em Django e JavaScript, mas sempre em busca de aprender mais e novas oportuniades, amo programar, sou bem ecletico pra música, gosto de jogos(por mais que seja ruim em alguns HAHAHA), sou fascinado e louco por tecnologias em geral⌨️, e o mais comum, amo CAFÉ☕, sou muito extrovertido e bem comunicativo, e me dedico bastante a aprender e melhorar sempre, sou um amigo que você leva para vida toda.
 
 ##Contatos:</br>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vicente_netto019)
 [![LikedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicente-peixoto-74017b193/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vicenthy.netto@gmail.com)
 
 ![snake gif](https://github.com/vicenthynetto/vicenthynetto/blob/output/github-contribution-grid-snake.svg)
